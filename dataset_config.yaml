@@ -1,0 +1,9 @@
+name: "SEPSIS"
+path: "data/sepsis.csv"
+features:
+  case_id: "case:concept:name"
+  activity: "concept:name"
+  time: "time:timestamp"
+
+# it can be default, none, or a specific path
+cache_path: default

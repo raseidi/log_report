@@ -1,0 +1,6 @@
+notes.md
+playground.py
+.vscode/*
+__pycache__/*
+*.ipynb
+*.py[cod]
